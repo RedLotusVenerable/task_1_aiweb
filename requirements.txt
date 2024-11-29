@@ -1,6 +1,6 @@
 streamlit
 random
 base64
-panda
+pandas
 requests
 openai
